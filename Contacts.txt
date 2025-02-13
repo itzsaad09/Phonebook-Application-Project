@@ -1,0 +1,5 @@
+13,Faiqaaa,Riaxx,3456789210,fdaiz@gmail.com,f,ftsag
+12,Farida,Begum,3456789023,#,#,mother
+11,Rohail,Nawaz,3457890234,rz@gmail.com,M,#
+4,Shah,Umar,3339876543,#,m,#
+10,Sheheryar,Asad,3456134678,sa@gmail.com,M,#
