@@ -27,18 +27,17 @@ Windows operating system (due to the use of Windows-specific headers like <windo
 
 # Code Structure
   # Classes:
-    contactNode: Represents a single contact with attributes like ID, phone number, name, email, gender, and relation.
-    tree: Manages the binary search tree operations, including insertion, deletion, searching, and file operations.
+  1. contactNode: Represents a single contact with attributes like ID, phone number, name, email, gender, and relation.
+  2. tree: Manages the binary search tree operations, including insertion, deletion, searching, and file operations.
   # Functions:
-
-      insert_contact(): Prompts the user to enter contact details and inserts a new contact into the tree.
-      delete_contact(): Deletes a contact based on user input.
-      update_contact(): Updates the details of an existing contact.
-      search_contacts_by_fname(): Searches for contacts by first name.
-      search_contacts_by_phone(): Searches for contacts by phone number.
-      display_all_contacts(): Displays all contacts in the phonebook.
-      saveToFile(): Saves contacts to a file.
-      loadData(): Loads contacts from a file when the application starts.
+  1. insert_contact(): Prompts the user to enter contact details and inserts a new contact into the tree.
+  2. delete_contact(): Deletes a contact based on user input.
+  3. update_contact(): Updates the details of an existing contact.
+  4. search_contacts_by_fname(): Searches for contacts by first name.
+  5. search_contacts_by_phone(): Searches for contacts by phone number.
+  6. display_all_contacts(): Displays all contacts in the phonebook.
+  7. saveToFile(): Saves contacts to a file.
+  8. loadData(): Loads contacts from a file when the application starts.
 
 # Error Handling
 The application includes basic error handling for invalid inputs, such as invalid phone numbers, email formats, and gender entries.
