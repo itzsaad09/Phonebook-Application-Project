@@ -16,15 +16,19 @@ C++ compiler (e.g., g++, MSVC)
 Windows operating system (due to the use of Windows-specific headers like <windows.h> and <conio.h>)
 
 # How to Compile and Run
-Clone the Repository: If the code is in a repository, clone it to your local machine.
-Open a Terminal: Navigate to the directory where the code is located.
-Compile the Code: Use a C++ compiler to compile the code.
-Run the Application: Execute the compiled program
+1. Clone the Repository: If the code is in a repository, clone it to your local machine.
+2. Open a Terminal: Navigate to the directory where the code is located.
+3. Compile the Code: Use a C++ compiler to compile the code.
+
+        g++ -o phonebook phonebook.cpp
+4. Run the Application: Execute the compiled program:
+
+       ./phonebook
 
 # Code Structure
   # Classes:
-      contactNode: Represents a single contact with attributes like ID, phone number, name, email, gender, and relation.
-      tree: Manages the binary search tree operations, including insertion, deletion, searching, and file operations.
+    contactNode: Represents a single contact with attributes like ID, phone number, name, email, gender, and relation.
+    tree: Manages the binary search tree operations, including insertion, deletion, searching, and file operations.
   # Functions:
 
       insert_contact(): Prompts the user to enter contact details and inserts a new contact into the tree.
