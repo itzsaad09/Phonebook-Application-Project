@@ -1,5 +1,18 @@
-13,Faiqaaa,Riaxx,3456789210,fdaiz@gmail.com,f,ftsag
-12,Farida,Begum,3456789023,#,#,mother
-11,Rohail,Nawaz,3457890234,rz@gmail.com,M,#
-4,Shah,Umar,3339876543,#,m,#
-10,Sheheryar,Asad,3456134678,sa@gmail.com,M,#
+16,Abubakar,Academy,3081711394,#,M,#
+2,Ahmad,Ardgan,3164995619,ahmad.ar5665@gmail.com,M,Friend
+4,Ahmed,#,3071468005,#,M,Friend
+21,Daniyal,Gujjar,3442538413,#,#,#
+5,Ammad,Bookshop,3249881543,ammadshahidrj294@gmail.com,#,#
+17,Aqib,#,3364042339,#,#,#
+18,Ashar,,3156129920,#,#,#
+21,Daniyal,Gujjar,3442538413,#,#,#
+6,Farid,Ahmed,3002101090,#,#,#
+7,Hassan,Sharifi,3208312116,#,M,Cousin
+8,Huzaifa,Bhai,3208046952,#,#,Cousin
+9,Ibtisam,,3094336344,#,M,Cousin
+15,Shahzaib,#,3019243670,#,M,Friend
+10,Sir,Abbas,3236000010,abbasaslma06@gmail.com,M,Teacher
+11,Sir,Anees,3008434208,anisqureshirock@gmail.com,M,Teacher
+14,Sir,Rizwan,3368883444,#,M,Teacher
+12,Tofeeq,Ahmed,3332325877,md_amp@hotmail.com,M,Al Makzan Printers
+13,Zuraiz,Bhai,3334962123,#,#,#
